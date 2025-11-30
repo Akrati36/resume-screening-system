@@ -1,0 +1,40 @@
+Job Title: Senior Data Scientist
+
+Company: Tech Innovations Inc.
+
+Location: Remote
+
+About the Role:
+We are seeking an experienced Data Scientist to join our AI/ML team. You will work on cutting-edge machine learning projects, build predictive models, and deploy solutions at scale.
+
+Requirements:
+- 5+ years of experience in data science and machine learning
+- Strong proficiency in Python and SQL
+- Experience with machine learning frameworks (TensorFlow, PyTorch, scikit-learn)
+- Expertise in NLP and text analytics
+- Knowledge of deep learning architectures (CNNs, RNNs, Transformers)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Strong statistical analysis and data visualization skills
+- Excellent communication and collaboration abilities
+
+Preferred Qualifications:
+- PhD or Master's degree in Computer Science, Statistics, or related field
+- Experience with big data technologies (Spark, Hadoop)
+- Published research in ML/AI conferences
+- Experience deploying models in production
+- Knowledge of MLOps and model monitoring
+
+Responsibilities:
+- Design and implement machine learning models
+- Analyze large datasets to extract insights
+- Collaborate with engineering teams to deploy models
+- Conduct A/B testing and experimentation
+- Mentor junior data scientists
+- Stay updated with latest ML research
+
+What We Offer:
+- Competitive salary and equity
+- Remote work flexibility
+- Health insurance and benefits
+- Learning and development budget
+- Collaborative team environment
